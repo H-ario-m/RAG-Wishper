@@ -2,6 +2,9 @@
 
 A powerful FAQ generation system that uses Retrieval-Augmented Generation (RAG) to create context-aware answers from a knowledge base. This project combines state-of-the-art language models with efficient document retrieval to provide accurate and relevant answers to user queries.
 
+## Author
+- [H-ario-m](https://github.com/H-ario-m)
+
 ## Features
 
 - **Retrieval-Augmented Generation (RAG)**: Combines document retrieval with language model generation for more accurate answers
