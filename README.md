@@ -114,6 +114,8 @@ RAG-Context-Aware-FAQ/
    - Loads and chunks the knowledge base (default: Wikipedia)
    - Creates embeddings using sentence transformers
    - Builds a FAISS index for efficient retrieval
+     ![Screenshot 2025-05-11 163713](https://github.com/user-attachments/assets/e0999898-be06-4d35-a5a0-8b44e55c9d8c)
+
 
 2. **Query Processing**:
    - Encodes the user query into a vector
