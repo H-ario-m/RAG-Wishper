@@ -24,8 +24,8 @@ A powerful FAQ generation system that uses Retrieval-Augmented Generation (RAG) 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/RAG-Context-Aware-FAQ.git
-cd RAG-Context-Aware-FAQ
+git clone https://github.com/H-ario-m/RAG-Wishper.git
+cd RAG-Whisper
 ```
 
 2. Create and activate a virtual environment:
@@ -94,7 +94,7 @@ python main.py
 ## Project Structure
 
 ```
-RAG-Context-Aware-FAQ/
+RAG-Whisper/
 ├── code/
 │   ├── answer_generation.py  # Answer generation using OpenAI
 │   ├── create_indexing.py    # FAISS index creation
@@ -127,18 +127,3 @@ RAG-Context-Aware-FAQ/
    - Combines retrieved context with the query
    - Uses GPT to generate a coherent answer
    - Returns the final response to the user
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- OpenAI for providing the GPT models
-- Hugging Face for the sentence transformers and cross-encoder models
-- FAISS for efficient similarity search
-- Wikipedia for the knowledge base
